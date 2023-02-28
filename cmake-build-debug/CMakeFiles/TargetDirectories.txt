@@ -1,0 +1,3 @@
+/Users/elvischege/Desktop/Programming/C_Lang/24HoursOfC/cmake-build-debug/CMakeFiles/24HoursOfC.dir
+/Users/elvischege/Desktop/Programming/C_Lang/24HoursOfC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elvischege/Desktop/Programming/C_Lang/24HoursOfC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
